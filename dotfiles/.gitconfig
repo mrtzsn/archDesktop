@@ -5,11 +5,11 @@
   path = ~/.config/git/internal-sites
 
 [user]
-	email = joshrosso@gmail.com
-	name = joshrosso
+	email = moritz.schneider1996@gmail.com
+	name = MoritzSchneider
 
 [code]
 	editor = vim
 [core]
-	excludesfile = /home/josh/.gitignore_global
+	excludesfile = /home/moritz/.gitignore_global
 [commit]

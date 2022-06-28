@@ -1,9 +1,9 @@
 PS1='\n\u @ \h (\e[38;5;198m\w\e[0m) [\e[38;5;148m$(git branch 2>/dev/null | grep '^*' | colrm 1 2)\e[0m]\n\$ '
 
 # Environment / Path
-#export GOBIN=/home/josh/bin
-export SCRIPTS=/home/josh/s
-#export GOPATH=/home/josh/f/d/go
+#export GOBIN=/home/moritz/bin
+export SCRIPTS=/home/moritz/s
+#export GOPATH=/home/moritz/f/d/go
 
 
 # Load aliases
@@ -60,7 +60,7 @@ alias watch='watch '
 source /usr/share/fzf/key-bindings.bash
 source /usr/share/fzf/completion.bash
 
-export ZOOM="https://VMware.zoom.us/my/joshrosso"
+export ZOOM=""
 
 export FZF_CTRL_R_OPTS='--sort --exact'
 
